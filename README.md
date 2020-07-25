@@ -2,7 +2,6 @@
 ## :bowtie: Hi there :bowtie:
 
 :left_speech_bubble: I say: _ Hello World!<br>
-:left_speech_bubble: I say: _ I’m not currently working...But searching...<br>
 :left_speech_bubble: I say: _ I’m permanently learning ... 
 
 
